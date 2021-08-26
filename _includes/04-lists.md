@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+##My Favorite Things!
+1. My Family :heart:
+2. My Dog :dog:
+3. Playing Golf :golf:
